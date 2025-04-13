@@ -32,3 +32,7 @@ a{
     border-radius: 7px;
     text-align: center;
 }
+.img {
+    height: 170px;
+    width: 200px;
+}
