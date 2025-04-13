@@ -13,3 +13,13 @@ align-items: center;}
 .hearder{
     margin-top: 90px;
 }
+a{
+    text-decoration: none;
+    color: black;
+}
+.section {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
